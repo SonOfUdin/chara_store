@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta 	charset="utf-8">
+	<meta 	lang="en-us">
+	<meta name="description" content="chara">
+	<meta name="keywords" content="chara; weaving; weavon; braid; braids; Ughellivibes; ughelli; washing and setting; retouching; straw curl
+				       pedicure; manicure; ">
+	    <title>Chara Hairdressing Salon</title>
+	
+	<style>
+    body {padding: 20px; background-color: wheat;}
+#header > img {width: 100px; height: 100px; float: right;}
+#header {background-image:url(https://user-images.githubusercontent.com/90072727/192566991-3bc293fe-6a64-46ac-a875-4769b4209741.jpg); 
+	max-width: 100%; max-height: 100%; padding: 5em;  }
+#h1 {color: white; text-shadow: turquoise;
+    font-size: 250%; text-align: center; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; padding: 20px;}
+   #weavon {column-count: 4; column-gap:10px; background-color: aquamarine; padding: 10px;}
+#weavon > img { max-width: 10em; height: 15em;}
+</style>
+
+	<script>
+	</script>
+	
+</head>
+
+    <body>
+        <div id="menu">
+                <a href="chara_store.html">Store</a> 
+                  <a href="chara_gallery.html">Gallery</a>
+                  <a href="chara-appointment.netlify.app">Book an Appointment</a><br />
+        </div>
+        <div id="header"> 
+    <img src="https://user-images.githubusercontent.com/90072727/192558609-3e463116-446b-450e-9f9a-780df1497344.png">
+    <h1 id="h1"> CHARA HAIRDRESSING SALON</h1>
+</div>
+
+<br> <br> <br> <br> <br> <br> 
+<h2>Stores</h2>
+<p> We have beautiful and quality goods for you, inlcuding hairs, wears and shoes</p>
+<div id="wears">
+
+</div>
+<br>
+<div id="weavon">
+    <img src="https://user-images.githubusercontent.com/90072727/192560770-84c44338-3a6d-494c-a4b1-62b9811cf7eb.png"/>
+    <button onclick="">Order Now</button>
+    <img src="https://user-images.githubusercontent.com/90072727/192561307-14324fc3-1689-495b-87a1-9e37f8830525.png"/>
+    <button onclick="">Order Now</button>
+    <img src="https://user-images.githubusercontent.com/90072727/192561685-b2084280-c72f-44b0-b8aa-11cd4f4132af.png"/>
+    <button onclick="">Order Now</button>
+    <img src="https://user-images.githubusercontent.com/90072727/192562132-d1b15242-7009-4a83-8c82-94360bd30cb6.png"/>
+    <button onclick="">Order Now</button>
+    <img src="https://user-images.githubusercontent.com/90072727/192562077-d96a9261-1f67-42d4-9273-046d22ffe35a.png"/>
+    <button onclick="">Order Now</button>
+    <img src="https://user-images.githubusercontent.com/90072727/192562132-d1b15242-7009-4a83-8c82-94360bd30cb6.png"/>
+    <button onclick="">Order Now</button>
+    <img src="https://user-images.githubusercontent.com/90072727/192562193-afd33074-a9b4-4f63-ae58-3aac0b7ee615.png"/>
+    <button onclick="">Order Now</button>
+    <img src="https://user-images.githubusercontent.com/90072727/192559854-13feb015-cccb-4067-a119-128ae8f56ce7.png"/>
+    <button onclick="">Order Now</button>
+
+    
+</div>
+
+
+
+
+<br> <br> <br> <br> <br> <br> <br> <br>
+<footer>
+<center>
+    Plot 77, Lowcost Road (Third Lowcost) <br> Ughelli, Delta State <br>
+</center>
+</footer>
+    </body>
+	    </html>
